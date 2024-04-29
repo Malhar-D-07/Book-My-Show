@@ -1,11 +1,11 @@
 ```bash
 Type "help" for help.
 
-namanbhalla=# create database scaler_july22_bookmyshow;
+malhardeshpande=# create database scaler_july22_bookmyshow;
 CREATE DATABASE
-namanbhalla=# create user july22batch;
+malhardeshpande=# create user july22batch;
 CREATE ROLE
-namanbhalla=# grant all privileges on database scaler_july22 to july22batch;
+malhardeshpande=# grant all privileges on database scaler_july22 to july22batch;
 GRANT
 namanbhalla=#
 ```
